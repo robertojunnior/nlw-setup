@@ -22,4 +22,4 @@
 <br>
 <br>
     
-<h2> Obrigado por visitar meu Git e até a próxima! - Bye 😁🖖.
+<h3> Obrigado por visitar meu Git e até a próxima! - Bye 😁🖖.
