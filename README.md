@@ -1,6 +1,6 @@
 # nlw-setup 🦾🚀🖖
 
-<li> Projeto aprtesentado pelo MAYK BRITO, vulgo "MAYKÃO"! e desenvolvido pelo mestre DIEGÃO rs, para acompanhar rotina e hábitos diários usando tecnologias de programação web com inputs e uma interface de designe moderno e fácil uso!
+<li> Projeto aprtesentado pelo MAYK BRITO, vulgo "MAYKÃO"! e desenvolvido pelo mestre DIEGÃO rs, para acompanhar rotina e hábitos diários usando tecnologias de programação web com inputs e uma interface de design moderno e fácil uso!
 
 ##  😎 Technologies
 
