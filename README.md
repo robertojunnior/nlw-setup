@@ -11,7 +11,8 @@
 
 <li> Abaixo imagens do projeto final do "Habits"! 👽😁🧑‍🚀
 <br>
-<img src="./assets/cover-project.png" alt="imagem-de-capa">
-<img src="./assets/home-project.png" alt="home-do-projeto">
+<br>
+<img width="400px" src="./assets/cover-project.png" alt="imagem-de-capa">
+<img width="400px" src="./assets/home-project.png" alt="home-do-projeto">
 
 Bye.
