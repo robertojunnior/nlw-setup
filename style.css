@@ -3,22 +3,24 @@
     padding: 0;
     box-sizing: border-box;
 }
-
-button {
-    color: #ffffff;
-    font-size: 16px;
-    background-color: #09090A;
-    border: 1px solid #8B5CF6;
-    border-radius: 8px;
-    width: 216px;
-    height: 52px;
-
-}
-  
 body {
     background-color: #09090A;
-
     height: 100vh;    
-
 }
+
+button {
+    padding: 16px 24px;
+    border-radius: 8px;
+    border: 1px solid #8b5cf6;
+    background-color: transparent;
+    color: #ffffff;
+    gap: 12px;
+
+    display: flex;
+    align-items: center;
+}
+
+
+  
+
 
