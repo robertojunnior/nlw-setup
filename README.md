@@ -7,6 +7,6 @@
 - JavaScript
 - Git and GitHub
 
-<a href="">Clique aqui</a> para conferir o resultado atual.🚀
+<a target="_blank" href="https://robertojunnior.github.io/nlw-setup/">Clique aqui</a> para conferir o resultado atual.🚀
 
 Bye.
