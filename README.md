@@ -19,5 +19,7 @@
     <img width="800px" src="./assets/home-project.png" alt="home-do-projeto">
   <div/>
 
+<br>
+<br>
     
 <h2> Obrigado por visitar meu Git e até a próxima! - Bye 😁🖖.
