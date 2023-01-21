@@ -11,10 +11,15 @@ body {
 }
 
 header {
+    /* border: 1px solid white; */
     padding: 48px;
     display: flex;
     align-items: center;
     justify-content: space-between;
+    /* ajustando para que ele fique fixo na tela */
+    position: fixed;
+    background-color: #09090A;
+    width: 100%;
 }
 
 button {
@@ -37,8 +42,8 @@ button {
 #form-habits {
     /* border: 1px solid white; */
     display: flex;
-    padding: 0 48px;
-    
+    padding: 182px 48px 48px;
+    width: fit-content;
 }
 
 .habits {
@@ -105,8 +110,11 @@ input {
 input:checked {
     border: 2px solid #A78BFA;
     background-color: #8B5CF6;
-    
 }
   
-
+@media (max-width: 570px) {
+    button div {
+        display: none;
+    }
+}
 
