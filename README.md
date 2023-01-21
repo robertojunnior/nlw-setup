@@ -25,7 +25,7 @@
 <br>
 <br>
     
-<h3> Obrigado por visitar meu Git e se chegou até aqui dê um "FOLLOW" que retribuo, quem sabe não podemos colaborar em algum projeto juntos?
+<h4> Obrigado por visitar meu Git e se chegou até aqui dê um "FOLLOW" que retribuo, quem sabe não podemos colaborar em algum projeto juntos?
   <br>
   <br>
 <p> Até a próxima! - Bye 😁🖖.
