@@ -61,7 +61,8 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat e construído aqui neste repositório por ninguém menos que o "Cabra" que vos fala, ops! Escreve 😁 :wave: [Participe da comunidade Rocketseat no DISCORD!](https://discord.gg/rocketseat)
+Feito com ♥ by Rocketseat e construído aqui neste repositório por ninguém menos que o "Cabra" que vos fala, ops! Escreve 😁:wave: 
+<br>🚀[Participe da comunidade Rocketseat no DISCORD!](https://discord.gg/rocketseat)
 
     
 <h4> Obrigado por visitar meu Git e se chegou até aqui dê um "FOLLOW" que retribuo, quem sabe não podemos colaborar em algum projeto juntos?
