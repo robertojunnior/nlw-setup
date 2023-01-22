@@ -19,7 +19,7 @@ NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de 
 <br>
 <p><li> Este NLW-SETUP foi apresentado pelo MAYK BRITO, vulgo "MAYKÃO"! E projeto desenvolvido no FIGMA pelo mestre DIEGÃO rs, para acompanhar rotina e hábitos diários usando tecnologias de programação web com inputs e uma interface de design moderno e fácil uso!
 
-##  😎 Technologies
+## 😎 Technologies
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <li> HTML
