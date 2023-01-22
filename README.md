@@ -1,6 +1,6 @@
 # nlw-setup 🦾🚀🖖
 
-<p><li> Projeto "EM ANDAMENTO" apresentado pelo MAYK BRITO, vulgo "MAYKÃO"! e desenvolvido pelo mestre DIEGÃO rs, para acompanhar rotina e hábitos diários usando tecnologias de programação web com inputs e uma interface de design moderno e fácil uso!
+<p><li> Projeto apresentado pelo MAYK BRITO, vulgo "MAYKÃO"! e desenvolvido pelo mestre DIEGÃO rs, para acompanhar rotina e hábitos diários usando tecnologias de programação web com inputs e uma interface de design moderno e fácil uso!
 
 ##  😎 Technologies
 
@@ -10,6 +10,8 @@
 <li> Git and GitHub
 
 <p><a target="_blank" href="https://robertojunnior.github.io/nlw-setup/">Clique aqui</a> para conferir o resultado atual.🚀
+
+<li> Faça seus inputs diários de sua rotina, usando seu navegador como "Local Storage", assim os dados ficarão salvos sem precisar de um banco de dados.
 
 <h3> Abaixo imagens do projeto final do "Habits"! 🧑‍🚀
 <br>
