@@ -1,23 +1,21 @@
-const form = document.querySelector('#form-habits')
+const form = document.querySelector("#form-habits")
 const nlwSetup = new NLWSetup (form)
 const button = document.querySelector('header button')
 
 button.addEventListener("click", add)
 
 function add() {
-  const today = "01/01"
+  const today = new Date().toLocaleDateString('pt-br').slice(0,-5)
   const dayExists = nlwSetup.dayExists(today)
 
   if (dayExists) {
-    alert("Dia já existe!")
+    alert("Dia já foi incluído!👍")
     return
   }
-
-   nlwSetup.addDay("01/01")
-
+   alert("Dia adicionado com sucesso!👍")
+   nlwSetup.addDay(today)
 }
-
-
+   
 // const data = {
 //   run: ['01-01', '01-02', '01-04','01-06'],
 //   water: ['01-01','01-04','01-05','01-06'],
