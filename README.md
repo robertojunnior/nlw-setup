@@ -11,13 +11,11 @@ NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de 
   <a href="#memo-licença">Licença</a>
 </p>
 
+
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
-
-<h3> Abaixo imagens do projeto "Habits"! 🧑‍🚀
-<br>
 <br>
 
   <div align="center">
@@ -31,9 +29,12 @@ NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de 
 <br>
 
 <br>
-<p><li> Este NLW-SETUP foi apresentado pelo MAYK BRITO, vulgo "MAYKÃO"! E projeto desenvolvido no FIGMA pelo mestre DIEGÃO rs, para acompanhar rotina e hábitos diários usando tecnologias de programação web com inputs e uma interface de design moderno e fácil uso!
+🧑‍🚀 Este NLW-SETUP foi apresentado pelo MAYK BRITO, vulgo "MAYKÃO"! E o projeto desenvolvido no FIGMA pelo mestre DIEGÃO rs, para acompanhar rotina e hábitos diários usando tecnologias de programação web com inputs e uma interface de design moderno e fácil uso!
 
-## 😎 Technologies
+<br>
+
+## 🚀 Tecnologias
+
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <li> HTML
@@ -62,7 +63,7 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat e construído aqui neste repositório por ninguém menos que o "CARA" que vos fala, ops! Escreve 😁 :wave: [Participe da comunidade Rocketseat no DISCORD!](https://discord.gg/rocketseat)
+Feito com ♥ by Rocketseat e construído aqui neste repositório por ninguém menos que o "Cabra" que vos fala, ops! Escreve 😁 :wave: [Participe da comunidade Rocketseat no DISCORD!](https://discord.gg/rocketseat)
 
     
 <h4> Obrigado por visitar meu Git e se chegou até aqui dê um "FOLLOW" que retribuo, quem sabe não podemos colaborar em algum projeto juntos?
