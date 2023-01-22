@@ -1,4 +1,3 @@
-# nlw-setup 🦾🚀🖖
 <h1 align="center"> Projeto Habits </h1>
 
 <p align="center">
