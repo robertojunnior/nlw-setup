@@ -48,7 +48,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O Habits é um app para ajudar a rastrear os hábitos.
 Faça seus inputs diários de sua rotina, usando seu navegador como "Local Storage", assim os dados ficarão salvos sem precisar de um banco de dados.
 
-- [Visite o projeto online](https://roberjunnior.github.io/nlw-setup)
+- [Visite o projeto online](https://roberjunnior.github.io/nlw-setup/)
 
 ## 🔖 Layout
 
