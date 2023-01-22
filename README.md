@@ -43,8 +43,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <li> Git and GitHub
 <li> Figma
 
-<p><a target="_blank" href="https://robertojunnior.github.io/nlw-setup/">Clique aqui</a> para conferir o resultado atual.🚀
-
 ## 💻 Projeto
 
 O Habits é um app para ajudar a rastrear os hábitos.
